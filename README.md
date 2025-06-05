@@ -1,2 +1,14 @@
-# Real-Time-Facial-Recognition-System
-Developed a real-time facial recognition system using Python, OpenCV, and DeepFace, capable of identifying individuals from live video and images. Trained a deep learning model for face detection and identity matching, integrated webcam video processing, and implemented labeling and bounding box visualization.
+# DeepFace Face Recognition
+
+This project performs real-time face recognition using DeepFace and OpenCV.
+
+## Features
+- Static image face recognition
+- Real-time webcam face recognition
+- Compatible with custom image database
+
+## How to Run
+
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
